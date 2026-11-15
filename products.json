@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro (2nd Gen)",
+    "tagline": "Active Noise Cancellation",
+    "price": "$249",
+    "image": "assets/images/airpods_pro.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "AirPods Pro feature up to 2x more Active Noise Cancellation, plus Adaptive Transparency, and Personalized Spatial Audio with dynamic head tracking for immersive sound.",
+    "specifications": {
+      "Battery": "Up to 6 hours",
+      "Chip": "Apple H2",
+      "Case": "MagSafe Charging"
+    }
+  },
+  {
+    "id": 2,
+    "name": "AirPods Max",
+    "tagline": "High-fidelity audio",
+    "price": "$549",
+    "image": "assets/images/airpods_max.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-silver-202011?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "AirPods Max reimagine over-ear headphones. An Apple-designed dynamic driver provides immersive high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit.",
+    "specifications": {
+      "Weight": "13.6 ounces",
+      "Audio": "Spatial Audio",
+      "Colors": "5 colors"
+    }
+  },
+  {
+    "id": 3,
+    "name": "HomePod",
+    "tagline": "Profound sound",
+    "price": "$299",
+    "image": "assets/images/homepod.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-select-midnight-202210?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "HomePod is a powerhouse of a speaker. Apple-engineered audio technology and advanced software deliver high-fidelity sound throughout the room. It intelligently adapts to whatever it's playing.",
+    "specifications": {
+      "Size": "6.6 inches",
+      "Audio": "Spatial Audio",
+      "Colors": "2 colors"
+    }
+  },
+  {
+    "id": 4,
+    "name": "HomePod Mini",
+    "tagline": "Surprising sound for its size",
+    "price": "$99",
+    "image": "assets/images/homepod_mini.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-orange-202110?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "The HomePod Mini is jam-packed with innovation, delivering unexpectedly big sound for a speaker of its size. At just 3.3 inches tall, it takes up almost no space but fills the entire room with rich 360-degree audio. It works effortlessly with your iPhone—hand off music just by bringing your phone close to the speaker. You can place multiple HomePod Mini speakers around the house for a connected sound system. It is also an intelligent assistant that helps you manage your smart home.",
+    "specifications": {
+      "Size": "3.3 inches",
+      "Audio": "360-degree",
+      "Colors": "5 colors"
+    }
+  },
+  {
+    "id": 5,
+    "name": "iPhone 15 Pro",
+    "tagline": "The ultimate iPhone",
+    "price": "$999",
+    "image": "assets/images/iphone_15_pro.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "iPhone 15 Pro is the first iPhone to feature an aerospace-grade titanium design, using the same alloy that spacecraft use for missions to Mars. Featured with the groundbreaking A17 Pro chip.",
+    "specifications": {
+      "Display": "6.1 inches",
+      "Chip": "A17 Pro",
+      "Material": "Titanium"
+    }
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro 14\"",
+    "tagline": "Mind-blowing. Head-turning.",
+    "price": "$1,599",
+    "image": "assets/images/macbook_pro.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "MacBook Pro blasts forward with the M3 chip. Built on 3-nanometer technology and featuring an all-new GPU architecture, it is the most advanced chip ever built for a personal computer.",
+    "specifications": {
+      "Display": "14.2 inches",
+      "Battery": "Up to 22 hrs",
+      "Chip": "Apple M3"
+    }
+  },
+  {
+    "id": 7,
+    "name": "iPad Air",
+    "tagline": "Light. Bright. Full of might.",
+    "price": "$599",
+    "image": "assets/images/ipad_air.png",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-storage-select-202207-purple?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "description": "iPad Air lets you immerse yourself in whatever you're reading, watching, or creating. The 10.9-inch Liquid Retina display features advanced technologies like True Tone and P3 wide color.",
+    "specifications": {
+      "Display": "10.9 inches",
+      "Chip": "Apple M1",
+      "Colors": "5 colors"
+    }
+  }
